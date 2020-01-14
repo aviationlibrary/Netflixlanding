@@ -1,0 +1,126 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, .6);
+  background-blend-mode:multiply;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url(netback3.jpg);
+}
+
+
+.netflix-image {
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.signin {
+  padding: 9px 17px;
+  border: 0px;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  float: right;
+  margin-right: 20px;
+  margin-top: -57px;
+}
+
+.info-body {
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+
+}
+
+.big-text {
+  font-weight: bold;
+  font-size: 60px;
+  font-family: arial;
+  margin-bottom: 10px;
+}
+
+.less-text {
+  font-size: 25px;
+  font-family: arial;
+  font-weight: normal;
+}
+
+.click-try {
+  margin-top: 30px;
+  padding: 12px 24px;
+  font-size: 30px;
+  color: white;
+  background-color: red;
+  border:0px;
+  border-radius: 5px;
+  margin-bottom: 150px;
+}
+
+.body-two {
+  color: #ffffff;
+  text-align: center;
+  border-top: solid 5px;
+  border-color: grey;
+  background-color: #000000;
+  margin-top: 30px;
+  height: 500px
+}
+ .body-three {
+   color: #ffffff;
+   border-top: solid 5px;
+   border-color: grey;
+   background-color: #000000;
+ }
+
+ .body-four {
+   color: #ffffff;
+   border-top: solid 5px;
+   border-color: grey;
+   background-color: #000000
+ }
+
+ .body-five {
+   background-color: #000000;
+   color: #ffffff;
+   border-top: solid 5px;
+   text-align: center;
+ }
+
+.enjoy {
+  position: relative;
+  left:-600px;
+  top: 70px;
+  font-size: 50px;
+  margin-left: 400px;
+  display: block;
+}
+
+.watch1 {
+  position: relative;
+  left:-500px;
+  top: 70px;
+  margin-left: 200px;
+  font-size: 30px;
+  display: block;
+
+}
+
+.like-try {
+  position: relative;
+  top: -250px;
+  left: -650px;
+  border:1px solid white;
+  padding: 10px 30px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+.body-two img {
+  position: relative;
+  width: 500px;
+  top: -250px;
+  right: -350px;
+
+}
